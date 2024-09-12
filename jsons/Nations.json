@@ -32,7 +32,8 @@
 		"hateYes": ["I only accept because I have to.", "Whatever, I don't care."],
 
 		"uniqueName": "Pride of the People",
-		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"uniques": ["[+20]% of excess happiness converted to [Faith]",
+			"[+20]% Strength <for [Water] units> <when fighting units from a Civilization with more Cities than you>"],
 
 		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
                             "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
