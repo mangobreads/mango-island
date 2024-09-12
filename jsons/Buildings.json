@@ -1,7 +1,7 @@
 [
 	{
 		"name": "House of Idols",
-		"maintenance": 4,
+		"maintenance": 1,
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>"],
