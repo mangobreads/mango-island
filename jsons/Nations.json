@@ -1,6 +1,6 @@
 [
      {
-    "name": "Mango island",
+                "name": "Mango island",
 		"leaderName": "Ofagumi Mariann",
 		"adjective": ["Argentine"],
 		"outerColor": [87, 129, 167],
@@ -33,7 +33,7 @@
 
 		"uniqueName": "Pride of the People",
 		"uniques": ["[+20]% of excess happiness converted to [Faith]",
-			"[+20]% Strength <for [Water] units> <when fighting units from a Civilization with more Cities than you>"],
+			 "[+20]% Strength <for [Water] units> <when fighting units from a Civilization with more Cities than you>"],
 
 		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
                             "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
