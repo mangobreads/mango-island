@@ -1,6 +1,7 @@
 [
 	{
 		"name": "House of Idols",
+		"uniqueTo": "Mango Island",
 		"maintenance": 2,
 		"hurryCostModifier": 50,
 		"faith": 1,
