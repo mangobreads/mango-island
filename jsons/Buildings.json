@@ -1,10 +1,13 @@
 [
 	{
 		"name": "House of Idols",
-		"maintenance": 1,
+		"maintenance": 2,
 		"hurryCostModifier": 50,
+		"faith": 1,
+		"happiness": 2,
 		"uniques": ["Remove extra unhappiness from annexed cities",
-			"Can only be built <in [Annexed] cities>"],
+			"Can only be built <in [Annexed] cities>",
+			"Doubles Gold given to enemy if city is captured"],
 		"requiredTech": "Mathematics"
 	}
 ]
