@@ -1,1 +1,49 @@
+[
+     {
+    "name": "Mango island",
+		"leaderName": "Ofagumi Mariann",
+		"adjective": ["Argentine"],
+		"outerColor": [87, 129, 167],
+		"innerColor": [252, 209, 22],
+		"spyNames": ["Che","Pibe"],
 
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Good day it is, Julio, you, unlike others, did great things for Argentina, a prideful nation with good prowess. Argentina came from the provinces of the 'de La Plata river', who broke free from Spain into their own path. Conquering the Mapuches, they expanded their territory, and after that, their economy grew more and more, until becoming one of the best in Latin America. Although not being very successful in war, Argentina today is stable and periodically good.",
+		"startIntroPart2": "President, your people call you to bring good to the country. Will you make a civilization that can stand the pass of time?",
+		
+		"introduction": "I am Julio Roca, leader of Argentina. We'll treat you with honor and respect, if you do the same.",
+		"declaringWar": "I need to do this, for the sake of progress. You were never my friend.",
+		"attacked": "Ha! You think you can defeat me? Don't you know we are better than you?",
+		"afterPeace": "Although we are at peace, I still want to see you defeated.",
+		"defeated": "You are just another nation, this victory will not change that, because I actually gave up.",
+
+		"neutralHello": "Good morning.",
+		"hateHello": "Will you treat me how I deserve?!",
+
+		"tradeRequest": "I know you want this trade, I'm sure of that.",
+		"neutralLetsHearIt": "Yeah, I hear your offer.",
+		"hateLetsHearIt": ["Ok, what is it?", "Ok.. let's hear it..."],
+		"neutralNo": ["No no.", "Thank you, but no."],
+		"neutralYes": ["Thank you very much, goodbye.", "This is what I wanted!..."],
+		"hateNo": ["NO, no in the slightest", "Uy, no! How could you think on such a thing!?"],
+		"hateYes": ["I only accept because I have to.", "Whatever, I don't care."],
+
+		"uniqueName": "Pride of the People",
+		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+
+		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
+                            "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
+                            "La Rioja","Comodora","Rivadavia","San Luis","Ituzaingo","Santa fe","Rio Cuarto","San Rafael","Bariloche"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
+   },
+]
